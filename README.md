@@ -24,7 +24,7 @@ https://public.tableau.com/app/profile/blair.webb/viz/CitiBikesharing/Story1
 
 ### Popular Riding Locations and Times
 ![first_storypage](./Images/startinglocation.png)
-![second_storypage](./Images/endlocation.png)
+![second_storypage](./Images/endinglocation.png)
 ![third_storypage](./Images/tripsbyweekday.png)
 
 The concentration of starting and ending locations indicate an office-centric usage. High traffic zones that seem to generate bike-rental rather than a taxi or rideshare service during the peak hours of rush hour traffic would be of more benefit to office workers needing further transportation after leaving the metro. 
@@ -37,7 +37,7 @@ The length of time seems to remain fairly static compared by gender and as a who
 
 ### Customer Type
 ![sixth_storypage](./Images/customertypebygender.png)
-![seventh_storypage](./Images/fifth_storypage.png)
+![seventh_storypage](./Images/tripspergender.png)
 
 Most of the subscribers are male, and the majority of rides by subscribers are taken on weekdays with Thursday being the busiest rental day. One-time customers seem to prefer the weekend and are slightly more likely to be uninterested in disclosing their gender. Men also appear to be more comfortable in renting bikes during off-commute hours and after-dark than females or those of undisclosed gender.
 
