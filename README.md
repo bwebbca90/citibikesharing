@@ -16,7 +16,7 @@ The purpose of this project is to analyze New York City's Citibike usage for res
 ## Results 
 
 [Tableau Book with charts, dashboards, and story can be found here:]
-https://public.tableau.com/app/profile/blair.webb/viz/CitiBikesharing/Story1
+https://public.tableau.com/app/profile/blair.webb/viz/CitiBikesharing/Citibike
 
 
 ## Overall Summary of Trips and Customers
