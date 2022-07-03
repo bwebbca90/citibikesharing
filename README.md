@@ -37,7 +37,7 @@ The length of time seems to remain fairly static compared by gender and as a who
 
 ### Customer Type
 ![sixth_storypage](./Images/customertypebygender.png)
-![seventh_storypage](./Images/tripspergender.png)
+![seventh_storypage](./Images/Tripspergender.png)
 
 Most of the subscribers are male, and the majority of rides by subscribers are taken on weekdays with Thursday being the busiest rental day. One-time customers seem to prefer the weekend and are slightly more likely to be uninterested in disclosing their gender. Men also appear to be more comfortable in renting bikes during off-commute hours and after-dark than females or those of undisclosed gender.
 
